@@ -232,7 +232,7 @@ main {
 section.login-page,
 section.register-page {
   margin: auto;
-  width: 40vw;
+  width: 80%;
 }
 
 .input-login,
@@ -291,6 +291,12 @@ section.register-page {
 
   .detail-page__title {
     font-size: 64px;
+  }
+
+  section.login-page,
+  section.register-page {
+    margin: auto;
+    width: 40%;
   }
 }
 
