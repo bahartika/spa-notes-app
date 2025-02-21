@@ -1,7 +1,7 @@
 import React from "react";
 import { showFormattedDate } from "../utils";
 import ArchiveButton from "./ArchiveButton";
-import UnarchiveButton from "./UnArchiveButton";
+import UnarchiveButton from "./UnarchiveButton";
 import DeleteButton from "./DeleteButton";
 import parser from "html-react-parser";
 import PropTypes from "prop-types";
